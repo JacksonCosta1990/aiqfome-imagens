@@ -1,8 +1,8 @@
-[![aiqfome-imagens](https://user-images.githubusercontent.com/6974980/139386712-d5c596ab-5b26-45f4-a538-ae13a63e3984.png)](https://renandecarlo.github.io/aiqfome-imagens/ "aiqfome-imagens")
+[![aiqfome-imagens](https://user-images.githubusercontent.com/6974980/139386712-d5c596ab-5b26-45f4-a538-ae13a63e3984.png)](https://jacksoncosta1990.github.io/aiqfome-imagens/ "aiqfome-imagens")
 
 Esta ferramenta facilita a vida de CMs aiqfome com a criação de imagens de divulgação de parceiros.
 
-Acesse pelo link: **https://renandecarlo.github.io/aiqfome-imagens/**
+Acesse pelo link: **https://jacksoncosta1990.github.io/aiqfome-imagens/**
 <br /><br />
 
 ## Como funciona
@@ -16,4 +16,4 @@ As imagens são geradas diretamente pelo navegador com a biblioteca [`Jimp`](htt
 Em caso de múltiplas imagens, é criado um arquivo Zip com a biblioteca [`JSZip`](https://github.com/Stuk/jszip "JSZip").
 
 ## Como ajudar
-Adicione novas imagens criando uma máscara em verde (`#60fc1c`,`rgb:96,252,28`) como na [imagem modelo](https://raw.githubusercontent.com/renandecarlo/aiqfome-imagens/main/src/assets/resources/masks/modelo_feed_com_logo.png "imagem modelo") e me envie, ou faça um pull request rs
+Adicione novas imagens criando uma máscara em verde (`#60fc1c`,`rgb:96,252,28`) como na [imagem modelo](https://raw.githubusercontent.com/jacksoncosta1990/aiqfome-imagens/main/src/assets/resources/masks/modelo_feed_com_logo.png "imagem modelo") e me envie, ou faça um pull request rs
